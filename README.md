@@ -2,6 +2,8 @@
 
 A recreation of the PS3 "Vortex Framework 1.2" mod menu for the **Xbox 360**, built for **Call of Duty: Black Ops II Multiplayer (TU18)**.
 
+<img width="800" height="450" alt="d5b958d4-91ae-4db7-9204-218a754c3b22" src="https://github.com/user-attachments/assets/4ec43eae-24b1-4057-af7b-21fdbc5cbde2" />
+
 ## How to open the menu
 
 Hold **LB** and press **D-Pad Down**. Use the same combination to close it again.
